@@ -1,22 +1,8 @@
 import React from "react";
 
-const FormBusiness = () => (
- 
-
-
-
-);
+const FormBusiness = () => <div>Hola soy un form</div>;
 
 export default FormBusiness;
-
-
-
-
-
-
-
-
-
 
 //  // Menu desplegable
 //  <div className="uk-form-select" data-uk-form-select="{target:'a'}">
@@ -75,7 +61,3 @@ export default FormBusiness;
 //  </div>
 // </div>
 // </section>
-
-
-
-
